@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I’m Pablo Paccioretti
 
-<!--
-**PPaccioretti/PPaccioretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Researcher | 🌱 Precision Agriculture | 📊 Data Analysis & Spatial Statistics  
+🇦🇷 Argentina
 
-Here are some ideas to get you started:
+I am an agricultural engineer, professor, and researcher focused on **statistical analysis, spatial data, and digital agriculture**.  
+My work combines **applied research** with the **development of open-source software**, mainly in **R**, to support data-driven decision making in agriculture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Interests
+
+- Precision and digital agriculture
+- Spatial and spatio-temporal data analysis
+- On-farm experimentation
+- Decision support tools for crop management
+
+---
+
+## 🤝 Collaboration
+
+I am open to collaborations in:
+- agricultural data analysis  
+- software development for research  
+- on-farm trials and experimental design  
+- spatial statistics applications
+
+If you are interested in working together, feel free to get in touch.
+
+---
+
+## 📫 Contact & Profiles
+
+- 🔗 LinkedIn: www.linkedin.com/in/ppaccioretti
+- 🧪 ORCID: https://orcid.org/0000-0002-1267-6361
